@@ -1,6 +1,6 @@
 # Contact
 <a target="_blank" href="https://t.me/xzero0000">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Telegram.png" title="xzero0000">
+  <img src="https://icons.iconarchive.com/icons/froyoshark/enkel/48/Telegram-icon.png" title="xzero0000">
 </a>
 <br/>
 
